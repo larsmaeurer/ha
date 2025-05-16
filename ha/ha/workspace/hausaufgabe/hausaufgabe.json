@@ -1,0 +1,34 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"_ugmfT1c4q\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Hausaufgabe</span>\",\"col\":12}},{\"id\":\"OLXLeQlZ0U\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Hausaufgabenliste\",\"col\":4}}]",
+ "creation": "2025-05-16 12:29:26.919145",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "orange",
+ "is_hidden": 0,
+ "label": "Hausaufgabe",
+ "links": [],
+ "modified": "2025-05-16 12:34:52.884495",
+ "modified_by": "Administrator",
+ "module": "Ha",
+ "name": "Hausaufgabe",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Hausaufgaben",
+   "label": "Hausaufgabenliste",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [],
+ "title": "Hausaufgabe"
+}

@@ -5,6 +5,11 @@ app_description = "Hausaufgabe"
 app_email = "frappe@schmidtundtoechter.com"
 app_license = "mit"
 
+fixtures = [
+    "Hausaufgaben",
+    "Workspace"
+]
+
 # Apps
 # ------------------
 
